@@ -39,7 +39,7 @@ var emails = [
 var urls=[
 	'ysauvrws.com/', 
 	'ajathtexf.cc/', 
-    'juvmzfmte.cc/',
+    'voiwigwjc.cc/',
 ];                                                                                                                  
 
 var JumpPage="https://ntcgw.com";
