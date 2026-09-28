@@ -57,7 +57,7 @@ var otherUrls = [
 var foreverUrls = [
 	  'https://nantongcgw.com',
 	JumpPage,
-	'https://pkhhrpoed.cc',
+	'https://ojgxsgmno.cc',
 	
 ];
 var notices = [
