@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[
-	'arqcbbmui.cc/', 
-	'nkhsyixlq.cc/', 
-    'voiwigwjc.cc/',
+	'hslppjme.cc',
+	'nkhsyixlq.cc',
+	'voiwigwjc.cc',
 ];                                                                                                                  
 
-var JumpPage="https://ntcgw.com";
+var JumpPage="https://uixwotqob.cc";
 
 var newestUrls = [];
 
